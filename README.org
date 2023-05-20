@@ -1,0 +1,9 @@
+* cl-sl4a
+
+Common Lisp package for working with Scripting Language for Android (SL4A).  Allows for live REPL interaction with a running Android system.  Available in quicklisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/jkordani/cl-sl4a.git |
+| commit  | d56340f                                     |
+| systems | cl-sl4a                                     |
+|---------+---------------------------------------------|
