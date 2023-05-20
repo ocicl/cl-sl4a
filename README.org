@@ -5,5 +5,5 @@ Common Lisp package for working with Scripting Language for Android (SL4A).  All
 |---------+---------------------------------------------|
 | source  | git:https://github.com/jkordani/cl-sl4a.git |
 | commit  | d56340f                                     |
-| systems | cl-sl4a                                     |
+| systems | cl-android                                  |
 |---------+---------------------------------------------|
