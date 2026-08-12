@@ -7,4 +7,4 @@ Common Lisp package for working with Scripting Language for Android (SL4A).  All
 | commit  | d56340f                                     |
 | systems | cl-android                                  |
 |---------+---------------------------------------------|
- 
+  
